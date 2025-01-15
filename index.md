@@ -5,10 +5,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to THM Cybersecurity 101 summary](./THM/cybersecurity101.md)
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
+[Link to THM Jr. Pentester summary](./THM/jrpentester.md)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
